@@ -8,7 +8,8 @@
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Premiere-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Premiere-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/></a></br>
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=![image](https://user-images.githubusercontent.com/100827318/157367610-0aa3e6ee-5099-4097-9e84-db0d98aea964.png)&logoColor=white"/></a>
 
 <!---
 JinJinDal/JinJinDal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
