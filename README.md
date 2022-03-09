@@ -8,6 +8,7 @@
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Premiere-9999FF?style=flat-square&logo=Adobe Adobe Premiere Pro icon&logoColor=white"/></a>
 
 <!---
 JinJinDal/JinJinDal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
